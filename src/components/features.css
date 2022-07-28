@@ -1,0 +1,33 @@
+h2 ,span{
+    color: rgb(244, 199, 75);
+}
+
+.features{
+    text-align: center;
+}
+.features h3{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.mid{
+    margin: auto !important;
+}
+
+.feature{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(249, 249, 224);
+}
+
+.feature .text-center h2{
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.feature img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    margin-bottom: 10px;
+}
